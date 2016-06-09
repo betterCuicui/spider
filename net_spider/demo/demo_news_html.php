@@ -1,5 +1,5 @@
 <?php
-header("Content-Type: text/html; charset=utf-8");
+//header("Content-Type: text/html; charset=utf-8");
 
 include_once '../Models/simple_html_dom/simple_html_dom.php';
 $ch = curl_init();
@@ -8,6 +8,9 @@ $url2 = 'http://202.118.201.228/homepage/infoSingleArticle.do;jsessionid=932BE8F
 curl_setopt($ch,CURLOPT_URL,$url1);
 curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
 curl_setopt($ch, CURLOPT_USERAGENT, "user-agent:Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0");
+curl_setopt($cURL,CURLOPT_HTTPHEADER,array (
+    "Content-Type: text/xml; charset=gbk"
+));
 $output = curl_exec($ch);
 
 echo curl_getinfo($ch,CURLINFO_EFFECTIVE_URL);
@@ -19,13 +22,15 @@ $a = $html->find('a');
 foreach($a as $u){
     echo $u->href."<br/>";
 }
-return;
+//return;
 $main = $html->find('div[id=article]',0);
-echo $main;
-return;
-$tittle = $main->find('h2',0);
+$tittle = $main->find('h2',0)->plaintext;
+$tittle = mb_convert_encoding($tittle,"gb2312","utf-8");
 $articleInfo = $main->find('div[id=articleInfo]',0);
-$content = $main->find('div.body',0);
+$content = $main->find('div.body',0)->plaintext;
+$content = str_replace("&nbsp;",'',$content);
+$content = str_replace(" ",'',$content);
+$content = mb_convert_encoding($content,"gb2312","utf-8");
 preg_match_all('/([0-9]|-)+/',$articleInfo,$data);
 echo "public_time:".$data[0][0]."<br/>";
 echo "view_times:".$data[0][1]."<br/>";

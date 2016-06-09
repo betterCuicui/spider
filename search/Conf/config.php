@@ -8,6 +8,5 @@ return array(
     'DB_PWD'                => '123456',     // 密码
     'DB_PORT'               => '3306',        // 端口
     'DB_PREFIX'             => '',    // 数据库表前缀
-
 );
 ?>

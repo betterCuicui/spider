@@ -1,0 +1,1193 @@
+[ 2016-06-08T17:18:09+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002076s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013689s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000681s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000947s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003221s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003364s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003528s ]
+
+[ 2016-06-08T17:31:46+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+NOTIC: [4096] Object of class IndexAction could not be converted to string /home/www/spider/search/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Object of class IndexAction to string conversion /home/www/spider/search/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: Object /home/www/spider/search/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [2] IndexAction::index(): Permission denied /home/www/spider/search/Lib/Action/IndexAction.class.php 第 6 行.
+NOTIC: [2] IndexAction::index(/var/log/www/default/20160608.log): failed to open stream: Permission denied /home/www/spider/search/Lib/Action/IndexAction.class.php 第 6 行.
+
+[ 2016-06-08T17:31:54+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021100s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000672s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000824s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000402s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003399s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002427s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002631s ]
+
+[ 2016-06-08T17:32:30+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024340s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000731s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000774s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001598s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001751s ]
+
+[ 2016-06-08T17:32:32+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022777s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000753s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000679s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004038s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002685s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003107s ]
+
+[ 2016-06-08T17:32:35+08:00 ] 192.168.1.113 /spider/?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037972s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000793s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001145s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000653s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003926s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001712s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001850s ]
+
+[ 2016-06-08T17:33:01+08:00 ] 192.168.1.113 /spider/?
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003488s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027722s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001441s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001138s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000881s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006006s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002815s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003395s ]
+
+[ 2016-06-08T17:33:04+08:00 ] 192.168.1.113 /spider/?search_contents=%E9%A2%9D%E5%A4%96%E4%BC%81%E9%B9%85
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023486s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000826s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001165s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000455s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004339s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001360s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2016-06-08T17:33:20+08:00 ] 192.168.1.113 /spider/?search_contents=321312312
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018553s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000729s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000658s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000857s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003832s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001986s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002647s ]
+
+[ 2016-06-08T17:44:23+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013625s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000631s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000721s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000844s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003792s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002500s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005659s ]
+
+[ 2016-06-08T17:44:25+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002666s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022144s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000697s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000583s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000807s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003226s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004503s ]
+
+[ 2016-06-08T17:44:28+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015969s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001279s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000843s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000360s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000942s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005284s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001285s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2016-06-08T17:44:30+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002712s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016806s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003550s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001706s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000397s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007597s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001148s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001259s ]
+
+[ 2016-06-08T17:46:45+08:00 ] 192.168.1.113 /spider/?search_contents=%E5%A4%8F%E4%BE%AF%E6%9C%89%E6%9D%B0
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021867s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001004s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001875s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000443s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004939s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001373s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2016-06-08T17:47:52+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002610s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019843s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001064s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001996s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000781s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007824s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001764s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002002s ]
+
+[ 2016-06-08T18:18:38+08:00 ] 192.168.1.113 /spider/?search_contents=%E9%A2%9D%E5%A4%96%E4%BC%81%E9%B9%85
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015389s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034257s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000914s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000992s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002018s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011336s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002167s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002523s ]
+
+[ 2016-06-08T18:27:49+08:00 ] 192.168.1.113 /spider/?search_contents=111
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003222s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036983s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002359s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000521s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005840s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002203s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002580s ]
+
+[ 2016-06-08T18:27:53+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019621s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001016s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001124s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000532s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004112s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002196s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002369s ]
+
+[ 2016-06-08T18:28:56+08:00 ] 192.168.1.113 /spider/?search_contents=
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017687s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000647s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001933s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000812s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005019s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001412s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001538s ]
+
+[ 2016-06-08T18:29:01+08:00 ] 192.168.1.113 /spider/?search_contents=1
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006649s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058019s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003177s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005759s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000775s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011603s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001452s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001626s ]
+
+[ 2016-06-08T18:29:05+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002139s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024623s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000714s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000695s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000359s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003682s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001378s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001663s ]
+
+[ 2016-06-08T18:29:08+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032234s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000716s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001030s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006162s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009554s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005209s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005407s ]
+
+[ 2016-06-08T18:29:10+08:00 ] 192.168.1.113 /spider/?search_contents=111
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033047s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003207s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001070s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000997s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006497s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001295s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001415s ]
+
+[ 2016-06-08T20:38:16+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.056678s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.073706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074041s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001101s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003165s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001963s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008574s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006963s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007230s ]
+
+[ 2016-06-08T20:39:00+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.050339s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061354s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002111s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001698s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000730s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009326s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002638s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002900s ]
+
+[ 2016-06-08T20:39:06+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.041164s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037142s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000745s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000731s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001831s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001795s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005756s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:10) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003324s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003586s ]
+
+[ 2016-06-08T20:43:14+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002110s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.051933s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020985s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000665s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000762s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000914s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004022s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002977s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003160s ]
+
+[ 2016-06-08T20:43:18+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002606s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.047589s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028505s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001004s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001496s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000954s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005240s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001116s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2016-06-08T20:43:19+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.059887s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030077s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001337s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000819s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001080s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005178s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001343s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2016-06-08T20:43:36+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.083142s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.076699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076910s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000824s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006829s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000547s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010432s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004735s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005256s ]
+
+[ 2016-06-08T20:45:07+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003056s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.087627s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040876s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000778s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003429s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001998s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008736s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002239s ]
+
+[ 2016-06-08T20:48:30+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.044491s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036219s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000925s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002023s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000769s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006617s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at /home/www/spider/search/Lib/Action/IndexAction.class.php:13) /home/www/spider/ThinkPHP/Lib/Core/View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003809s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004119s ]
+
+[ 2016-06-08T20:54:26+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006341s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021584s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001035s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002180s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006566s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001467s ]
+
+[ 2016-06-08T21:03:52+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002313s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: res /home/www/spider/search/Runtime/Cache/e11c0267d54f71c775d68f4fac7b6897.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027527s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000697s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001258s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000458s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004093s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003486s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004008s ]
+
+[ 2016-06-08T21:04:00+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.045146s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028247s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000727s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000753s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002684s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002196s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002535s ]
+
+[ 2016-06-08T21:04:49+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.033526s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044341s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000850s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000594s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000378s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004050s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003697s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004531s ]
+
+[ 2016-06-08T21:05:20+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006316s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.041843s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033328s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000852s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004211s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000451s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007049s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2016-06-08T21:05:32+08:00 ] 192.168.1.113 /spider/?search_contents=%E4%BF%84%E6%AD%A6%E5%99%A8%E6%81%B6%E8%B6%A3%E5%91%B3
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+SQL: select * from school_spider where contents LIKE '%俄武器恶趣味%' [ RunTime:0.045946s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033205s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004515s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000852s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001099s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008658s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001508s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2016-06-08T21:05:57+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002334s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.082345s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047962s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002351s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002902s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000828s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001993s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011064s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002933s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003343s ]
+
+[ 2016-06-08T21:05:59+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.047590s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022326s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000899s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001817s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000700s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000935s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004821s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001257s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2016-06-08T21:06:00+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.043108s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023945s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000839s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000700s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004874s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001302s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2016-06-08T21:06:34+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001847s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.061651s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042826s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000790s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003866s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000500s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012311s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002007s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002334s ]
+
+[ 2016-06-08T21:06:43+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.055726s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027181s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000885s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002083s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005360s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001400s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001707s ]
+
+[ 2016-06-08T21:07:01+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.060581s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047984s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002137s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001743s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006586s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002340s ]
+
+[ 2016-06-08T21:07:20+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.057472s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036256s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000793s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001202s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004151s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001340s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-06-08T21:07:51+08:00 ] 192.168.1.113 /spider/?search_contents=%E7%94%84%E4%BA%91%E5%90%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+SQL: select * from school_spider where contents LIKE '%甄云启%' [ RunTime:0.049058s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024629s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000853s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001399s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005059s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001768s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001916s ]
+
+[ 2016-06-08T21:08:10+08:00 ] 192.168.1.113 /spider/?search_contents=%E5%93%88%E5%B0%94%E6%BB%A8%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002029s ]
+SQL: select * from school_spider where contents LIKE '%哈尔滨理工大学%' [ RunTime:0.063259s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029714s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003646s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001347s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000720s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008247s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008106s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008356s ]
+
+[ 2016-06-08T21:08:55+08:00 ] 192.168.1.113 /spider/?search_contents=111111
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+SQL: select * from school_spider where contents LIKE '%111111%' [ RunTime:0.046887s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025010s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001694s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000886s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001090s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005534s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004719s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004956s ]
+
+[ 2016-06-08T21:12:20+08:00 ] 192.168.1.113 /spider/?search_contents=321312312
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+SQL: select * from school_spider where contents LIKE '%321312312%' [ RunTime:0.059080s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032656s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001108s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002861s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000701s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008945s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004875s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005072s ]
+
+[ 2016-06-08T21:12:30+08:00 ] 192.168.1.113 /spider/?search_contents=%E9%A2%9D%E5%A4%96%E4%BC%81%E9%B9%85%E5%AE%8C%E5%85%A8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: select * from school_spider where contents LIKE '%额外企鹅完全%' [ RunTime:0.052169s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021147s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001877s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001076s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000941s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005033s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001841s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-08T21:13:24+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002113s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.075680s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038024s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001211s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000955s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000769s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005301s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001886s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002077s ]
+
+[ 2016-06-08T21:13:52+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006697s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.034398s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024524s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000788s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000619s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000290s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002755s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001005s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-06-08T21:14:04+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.195059s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.147084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147289s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000814s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001350s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007943s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003200s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003462s ]
+
+[ 2016-06-08T21:14:15+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002773s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: res /home/www/spider/search/Runtime/Cache/e11c0267d54f71c775d68f4fac7b6897.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031783s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001803s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002594s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003761s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012787s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002473s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002677s ]
+
+[ 2016-06-08T21:20:36+08:00 ] 192.168.1.113 /spider/?search_contents=%E4%B8%BB%E5%B8%AD
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+SQL: select * from school_spider where contents LIKE '%主席%' [ RunTime:0.045360s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020373s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000743s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001102s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005488s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001449s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2016-06-08T21:21:08+08:00 ] 192.168.1.113 /spider/?search_contents=%E6%9D%A8%E5%8D%9A
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001737s ]
+SQL: select * from school_spider where contents LIKE '%杨博%' [ RunTime:0.046146s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018448s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000642s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000617s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000842s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004349s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003542s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004334s ]
+
+[ 2016-06-08T21:21:48+08:00 ] 192.168.1.113 /spider/?search_contents=%E5%A4%8F%E4%BE%AF%E6%9C%89%E6%9D%B0
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: select * from school_spider where contents LIKE '%夏侯有杰%' [ RunTime:0.049776s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030354s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002502s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001064s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000787s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013061s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005329s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005542s ]
+
+[ 2016-06-08T21:22:02+08:00 ] 192.168.1.113 /spider/?search_contents=%E7%94%84%E4%BA%91
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: select * from school_spider where contents LIKE '%甄云%' [ RunTime:0.043000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022942s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000915s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000856s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000534s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000987s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005126s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001324s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001435s ]
+
+[ 2016-06-08T21:22:23+08:00 ] 192.168.1.113 /spider/?search_contents=%E5%8F%B2%E6%99%A8%E5%90%89
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+SQL: select * from school_spider where contents LIKE '%史晨吉%' [ RunTime:0.041288s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021815s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000729s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000986s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001253s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004523s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001527s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001648s ]
+
+[ 2016-06-08T21:22:35+08:00 ] 192.168.1.113 /spider/?search_contents=%E6%9C%B1%E7%90%B3
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: select * from school_spider where contents LIKE '%朱琳%' [ RunTime:0.058843s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044342s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000784s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000696s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003898s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001651s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001896s ]
+
+[ 2016-06-08T21:22:56+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%B0%A2%E6%96%87
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: select * from school_spider where contents LIKE '%谢文%' [ RunTime:0.051852s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028594s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000657s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000696s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000877s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000909s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003515s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001590s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001700s ]
+
+[ 2016-06-08T21:23:44+08:00 ] 192.168.1.113 /spider/?search_contents=%E5%A4%8F%E4%BE%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: select * from school_spider where contents LIKE '%夏侯%' [ RunTime:0.044028s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019967s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000674s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001215s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004522s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002753s ]
+
+[ 2016-06-08T21:23:50+08:00 ] 192.168.1.113 /spider/?search_contents=%E6%9D%B0
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002453s ]
+SQL: select * from school_spider where contents LIKE '%杰%' [ RunTime:0.037700s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026374s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001895s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000943s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004876s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001203s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001384s ]
+
+[ 2016-06-08T21:36:07+08:00 ] 192.168.1.113 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004598s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: res /home/www/spider/search/Runtime/Cache/e11c0267d54f71c775d68f4fac7b6897.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.095758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096256s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003112s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001664s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000651s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007646s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009725s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009931s ]
+
+[ 2016-06-08T21:37:13+08:00 ] 192.168.1.113 /spider/?search_contents=%E8%93%9D%E6%A1%A5%E6%9D%AF
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: select * from school_spider where contents LIKE '%蓝桥杯%' [ RunTime:0.054862s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029154s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000754s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000621s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000358s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004869s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001395s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001524s ]
+
+[ 2016-06-08T23:54:25+08:00 ] 127.0.0.1 /spider/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: res /home/www/spider/search/Runtime/Cache/e11c0267d54f71c775d68f4fac7b6897.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036278s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002037s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001169s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000967s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012072s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002231s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002592s ]
+
+[ 2016-06-08T23:54:45+08:00 ] 127.0.0.1 /spider/?search_contents=11111
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: select * from school_spider where contents LIKE '%11111%' [ RunTime:0.050507s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024919s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000756s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000655s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000894s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003866s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001618s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001852s ]
+

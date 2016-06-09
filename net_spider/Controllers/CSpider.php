@@ -86,7 +86,7 @@ class CSpider
             }
         }
 
-        sleep(5);
+        sleep(1);
 
         //总进程开始分发任务
         while(1){

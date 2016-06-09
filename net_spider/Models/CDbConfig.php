@@ -6,7 +6,7 @@ return array(
         'username' => 'root',
         'password' => '123456',
         'dbname' => 'school_spider',
-        'dsn' => 'mysql:host=127.0.0.1;port=3306;dbname=net_spider'
+        'dsn' => 'mysql:host=127.0.0.1;port=3306;dbname=net_spider;charset=utf8'
     ),
     'redis' => array(
         'host' => '127.0.0.1',

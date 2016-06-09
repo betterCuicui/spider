@@ -1,5 +1,5 @@
 <?php
-$_SERVER['DOCUMENT_ROOT'] = '/home/www/net_spider';
+$_SERVER['DOCUMENT_ROOT'] = '/home/www/spider/net_spider';
 require $_SERVER['DOCUMENT_ROOT']."/Controllers/CSpider.php";
 
 $spider = new CSpider();

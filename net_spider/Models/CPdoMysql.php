@@ -10,6 +10,7 @@ class CPdoMysql
 
         try{
             $this->pdo = new PDO($dsn,$username,$password);
+            $this->pdo->exec("set names utf8");
         }catch (Exception $e){
             SeasLog::info("connect mysql catch exception, info : ".$e->__toString());
         }

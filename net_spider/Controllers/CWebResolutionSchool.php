@@ -64,13 +64,24 @@ class CWebResolutionSchool implements CWebResolution
     public function get_contents(){
         $content = $this->html->find('div[id=article]',0);
         $public_time = null;
+        $tittle = null;
         if(!empty($content)){
+            $tittle = $content->find('h2',0)->plaintext;
+            $tittle = str_replace("&nbsp;",'',$tittle);
+            $tittle = str_replace(" ",'',$tittle);
+            //$tittle = mb_convert_encoding($tittle,"gb2312","utf-8");
             $articleInfo = $content->find('div[id=articleInfo]',0);
             preg_match_all('/([0-9]|-)+/',$articleInfo,$data);
             $public_time = $data[0][0];
         }
-        $sql = "INSERT INTO school_spider VALUES (?,?,?)";
-        $val = array($this->url,$public_time,$content);
+        $content = $content->plaintext;
+        $content = str_replace("&nbsp;",'',$content);
+        $content = str_replace(" ",'',$content);
+        //$content = mb_convert_encoding($content,"gb2312","utf-8");
+        echo "插入数据库：$tittle\n";
+        $sql = "INSERT INTO school_spider (url,public_time,contents,tittle) VALUES (?,?,?,?)";
+        $val = array($this->url,$public_time,$content,$tittle);
+        //$this->mysql->operate_by_sql("set name 'utf-8'");
         $this->mysql->operate_by_sql($sql,$val);
     }
 
